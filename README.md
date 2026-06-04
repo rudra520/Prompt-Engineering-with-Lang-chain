@@ -94,13 +94,5 @@ This repository is continuously updated as I progress through advanced prompt en
 ## 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute to the learning roadmap.
 ## 📄 License
-This project is licensed under the MIT License.
-```
-
-***
-
-### 💡 Tips for your repo:
-1. Replace `YOUR_USERNAME` in the clone and issues links with your actual GitHub username.
-2. If you don't have a `requirements.txt` yet, you can create one with just `langchain`, `langchain-core`, and `python-dotenv` inside it.
-
+This project is licensed under the GPL License.
 ```
